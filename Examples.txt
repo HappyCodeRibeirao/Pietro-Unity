@@ -1,0 +1,38 @@
+//   https://repl.it/repls/AuthorizedCircularGraphs
+using System;
+
+class MainClass {
+  
+  public static void Main (string[] args) {
+    int inteiro = 0;
+    double real = 25.42;
+    char letra = 'b';
+    string palavra = "pasd";
+    bool verdadeiro_ou_falso = true;
+
+
+    string genero = "menino";
+    int irma = 3;
+    bool solitario = false;
+
+    //&&, ||, ==, !=, <=, >=, <, >
+
+    for (int i = 0; i  >= -100; --i) {
+      int budega = 20;
+      Console.WriteLine(budega);
+      //Console.WriteLine(i);
+    }
+
+    int i = 0;
+    while (i < 10) {
+      Console.WriteLine(i);
+      ++i;
+    }
+
+
+
+    //i começa a contar no 1; enquanto i for menor ou igual a //3; executa o que tem dentro do for; soma 1 a i
+   
+
+  }
+}
